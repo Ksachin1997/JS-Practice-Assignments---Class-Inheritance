@@ -13,4 +13,4 @@ class Circle extends Shape{
     calculateArea = () => {console.log("area of circle")};
 }
 
-module.exports(Circle);
+module.exports = Circle;
